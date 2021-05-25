@@ -6,7 +6,7 @@ function Welcome(props) {
 }
 
 function App() {
-  return (
+  return (  
     <div>
       <Welcome name="hong" />
       <Welcome name="in" />
